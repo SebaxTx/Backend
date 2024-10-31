@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MiCarreraPerfectaBackendApplication<MiCarreraPerfecta-Backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.MiCarreraPerfectaBackend.MiCarreraPerfectaBackendApplication",
+            "projectName": "MiCarreraPerfecta-Backend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
